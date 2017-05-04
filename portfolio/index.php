@@ -1,5 +1,5 @@
-<?php
- // <-- Här öppnar vi PHP-taggen.
+﻿<?php
+ // <-- Här öppnar vi PHP-taggen. 
 
 if (isset($_POST['submit'])) { // Här kollar vi om "Skicka"-knappen är klickad och vad som ska hända efter att den är klickad.
 
@@ -160,7 +160,7 @@ if (isset($_POST['submit'])) { // Här kollar vi om "Skicka"-knappen är klickad
       </div>
       <div class="strek">
       </div
-      <!--FOOTER-->
+      <!--FOOTER!-->
       <footer>&copy; <?php  echo date('Y'); ?></footer>
 
     <!-- jQuery first, then Tether, then Bootstrap JS. -->
